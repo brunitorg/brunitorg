@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá :) Eu sou o Bruno, tenho 25 anos, sou técnico em informática, trabalho na área da informatica desde 2012
+  -Atualmente estou trabalhando com manutenção de computadores em casa 
+  -Estou estudando programação WEB pela NLW da Rocketseat e também com cursos online do professor Bonieky Lacerda
+  -Sou estudante de sistemas de informa  pela UFOP
+  -Gosto de acompanhar novos lança de smartphones em geral
+  -Busco aprender mais sobre o universo apple, tanto em questão de manutenção como programação
+  Me encontrem no instagram como @brunitorg. 
