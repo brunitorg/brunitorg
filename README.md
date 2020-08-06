@@ -21,3 +21,17 @@ Olá :) Eu sou o Bruno, tenho 25 anos, sou técnico em informática, trabalho na
   -Gosto de acompanhar novos lança de smartphones em geral
   -Busco aprender mais sobre o universo apple, tanto em questão de manutenção como programação
   Me encontrem no instagram como @brunitorg. 
+
+# Bruno Gomes
+
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas computacionais.
+Sou um Técnico em Informática e atualmente estudando de Sistemas :computer:
+
+ :rocket:  &nbsp; Estou trabalhando em casa com manutenção de computadores no momento
+ <br/> :purple_heart: &nbsp; Buscando aprender sobre novas técnologias, universo apple de manutenção e sobre programação
+ <br/> :blush: &nbsp; Posso te ajudar com suporte e manutenção em computadores
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias no geral
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Bruno Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunitorg/)](https://www.linkedin.com/in/brunitorg/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-brun1994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brun1994@gmail.com)](mailto:brun1994@gmail.com)
