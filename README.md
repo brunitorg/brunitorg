@@ -18,4 +18,4 @@ Sou um Técnico em Informática e atualmente estudando de Sistemas :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-brun1994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brun1994@gmail.com)](mailto:brun1994@gmail.com)
 |
-[![Instagram Badge](https://img.shields.io/badge/brunitorg-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/brunitorg/)]
+[![Instagram Badge](https://img.shields.io/badge/brunitorg-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/brunitorg/)]
