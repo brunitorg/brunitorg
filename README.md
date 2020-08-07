@@ -2,12 +2,12 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas computacionais.
-Sou um Técnico em Informática e atualmente estudando de Sistemas :computer:
+Sou um técnico em informática e atualmente estudando de sistemas de informação :computer:
 
  :rocket:  &nbsp; Estou trabalhando em casa com manutenção de computadores no momento
  <br/> :wrench: Trabalho na área da informatica desde 2012
  <br/> :purple_heart: &nbsp; Buscando aprender sobre novas técnologias, universo apple de manutenção e sobre programação
- <br/> :books: Sou estudante de sistemas de informa  pela UFOP
+ <br/> :books: Sou estudante de sistemas de informação pela UFOP
  <br/> :computer: Estou estudando programação WEB pela NLW da Rocketseat e também com cursos online do professor Bonieky Lacerda
  <br/> :blush: &nbsp; Posso te ajudar com suporte e manutenção em computadores, redes, Windows e MacOS e um pouco de Linux
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias no geral e gosto de acompanhar novos lançamentos de smartphones :iphone:
